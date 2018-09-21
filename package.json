@@ -1,0 +1,19 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weslley Campos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-webp": "^3.0.0",
+    "concurrent-transform": "^1.0.0",
+    "gulp-image-resize": "^0.13.0",
+    "gulp-rename": "^1.4.0"
+  }
+}
